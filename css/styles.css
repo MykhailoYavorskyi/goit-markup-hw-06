@@ -601,8 +601,11 @@ ul {
   width: 264px;
   color: var(--footer-text);
 }
+.footer-contant-center {
+  margin-right: 80px;
+}
 
-.footer-social-media-text {
+.footer-pseudo-title {
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 16px;
