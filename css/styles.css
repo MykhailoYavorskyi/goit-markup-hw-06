@@ -354,6 +354,7 @@ ul {
 .contact-form-input {
   display: block;
   margin-bottom: 8px;
+  padding-left: 38px;
   width: 360px;
   height: 40px;
   /* transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
