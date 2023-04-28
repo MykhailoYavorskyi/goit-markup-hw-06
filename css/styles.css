@@ -424,7 +424,6 @@ ul {
 }
 .contact-form-checkbox-label {
   display: flex;
-  gap: 8px;
   margin-bottom: 24px;
   align-items: center;
   font-size: 12px;
@@ -438,6 +437,7 @@ ul {
   fill: #fcfcfc;
   width: 16px;
   height: 16px;
+  margin-right: 8px;
   padding: 3px 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 2px;
