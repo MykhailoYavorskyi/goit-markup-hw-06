@@ -409,8 +409,8 @@ ul {
 
 .contact-form-textarea:focus-visible {
   outline: none;
-  border: 1px solid #4d5ae5;
   border-radius: 4px;
+  border: 1px solid #4d5ae5;
 }
 
 .contact-form-checkbox {
@@ -435,7 +435,6 @@ ul {
 
 .contact-form-checkbox-icon {
   display: inline-block;
-
   fill: #fcfcfc;
   width: 16px;
   height: 16px;
